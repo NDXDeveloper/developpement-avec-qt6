@@ -24,7 +24,7 @@
 * [Styles et thèmes (Qt Style Sheets)](./03-interface-utilisateur/03-styles-et-themes-qt-style-sheets.md)
 * [Internationalisation (i18n) avec Qt Linguist](./03-interface-utilisateur/04-internationalisation-i18n-avec-qt-linguist.md)
 
-### 4. [Persistance des données](04-persistance-des-donnees)
+### 4. [Persistance des données](./04-persistance-des-donnees)
 
 * [Qt SQL et les bases de données](./04-persistance-des-donnees/01-qt-sql-et-les-bases-de-donnees.md)
 * [Sérialisation native avec QDataStream](./04-persistance-des-donnees/02-serialisation-native-avec-qdatastream.md)

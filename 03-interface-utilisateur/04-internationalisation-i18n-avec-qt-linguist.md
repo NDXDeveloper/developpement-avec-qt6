@@ -504,4 +504,4 @@ En suivant les bonnes pratiques présentées dans ce tutoriel, vous pourrez cré
 
 Avec Qt6, internationaliser votre application dès le début du développement est un investissement qui facilitera son évolution future et élargira considérablement son audience potentielle.
 
-⏭️ [Persistance des données](04-persistance-des-donnees)
+⏭️ [Persistance des données](/04-persistance-des-donnees)
