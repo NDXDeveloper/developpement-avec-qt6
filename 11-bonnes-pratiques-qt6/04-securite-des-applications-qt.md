@@ -2044,7 +2044,7 @@ Ces principes peuvent être adaptés à n'importe quelle application Qt6, qu'il 
 Il est important de noter que la sécurité est un processus continu, pas un état final. Restez informé des nouvelles vulnérabilités et mettez régulièrement à jour vos pratiques de sécurité et vos bibliothèques.
 
 Dans un environnement de production réel, n'oubliez pas de faire auditer votre code par des experts en sécurité et de réaliser des tests de pénétration pour identifier les éventuelles failles.
-```
+
 
 ## Bonnes pratiques pour débutants
 
