@@ -1,0 +1,170 @@
+"
+## Table des matières - Développement avec Qt6
+
+### 1. Introduction à Qt6
+
+1.1 Nouveautés de Qt6 par rapport à Qt5
+1.2 Installation et configuration de l'environnement
+1.3 Qt Creator 10+ et ses fonctionnalités
+1.4 Principe des signaux et slots dans Qt6
+
+### 2. Architecture d'applications Qt6
+
+2.1 Modèle d'application Qt (QApplication)
+2.2 Système de widgets et QML
+2.3 Architecture Model-View-Controller (MVC)
+2.4 Organisation modulaire du code
+
+### 3. Interface utilisateur
+
+3.1 Développement avec Qt Widgets
+3.2 Développement avec Qt Quick/QML
+3.3 Styles et thèmes (Qt Style Sheets)
+3.4 Internationalisation (i18n) avec Qt Linguist
+
+### 4. Persistance des données
+
+4.1 Qt SQL et les bases de données
+4.2 Sérialisation native avec QDataStream
+4.3 Sérialisation JSON avec QJsonDocument
+4.4 Sérialisation XML avec QXmlStreamWriter/Reader
+4.5 Stockage local avec QSettings
+
+### 5. Communication réseau
+
+5.1 API réseau de Qt (QNetworkAccessManager)
+5.2 WebSockets avec Qt
+5.3 REST API avec Qt Network
+5.4 Bluetooth et NFC avec Qt
+
+### 6. Multimédia et graphiques
+
+6.1 Traitement d'images avec Qt
+6.2 Audio et vidéo avec Qt Multimedia
+6.3 Graphiques vectoriels avec Qt SVG
+6.4 Animations et transitions
+
+### 7. Multithreading et concurrence
+
+7.1 QThread et gestion des threads
+7.2 Programmation asynchrone avec QFuture et QtConcurrent
+7.3 Synchronisation avec QMutex et QSemaphore
+7.4 Modèle d'acteur avec Qt
+
+### 8. Tests et débogage
+
+8.1 Tests unitaires avec Qt Test
+8.2 Débogage avec Qt Creator
+8.3 Profilage avec Qt Performance Analyzer
+8.4 Gestion des erreurs et exceptions
+
+### 9. Développement multiplateforme avec Qt6
+
+9.1 Configuration des projets multi-plateformes avec CMake
+9.2 Spécificités Windows, Linux, macOS
+9.3 Développement mobile (Android, iOS)
+9.4 Gestion des ressources multi-plateformes
+9.5 Déploiement d'applications Qt
+
+### 10. Intégration et extensions
+
+10.1 Intégration de bibliothèques C++ tierces
+10.2 Création de plugins Qt
+10.3 Intégration de code natif (JNI, Objective-C)
+10.4 Extensions Python avec PyQt6/PySide6
+
+### 11. Bonnes pratiques Qt6
+
+11.1 Gestion mémoire et pointeurs intelligents
+11.2 Optimisation des performances
+11.3 Architecture d'applications robustes
+11.4 Sécurité des applications Qt
+"
+
+
+"
+
+### dossier : 01-introduction-a-qt6
+
+* 01-nouveautes-de-qt6-par-rapport-a-qt5
+* 02-installation-et-configuration-de-l-environnement
+* 03-qt-creator-10-et-ses-fonctionnalites
+* 04-principe-des-signaux-et-slots-dans-qt6
+
+### dossier : 02-architecture-d-applications-qt6
+
+* 01-modele-d-application-qt-qapplication
+* 02-systeme-de-widgets-et-qml
+* 03-architecture-model-view-controller-mvc
+* 04-organisation-modulaire-du-code
+
+### dossier : 03-interface-utilisateur
+
+* 01-developpement-avec-qt-widgets
+* 02-developpement-avec-qt-quick-qml
+* 03-styles-et-themes-qt-style-sheets
+* 04-internationalisation-i18n-avec-qt-linguist
+
+### dossier : 04-persistance-des-donnees
+
+* 01-qt-sql-et-les-bases-de-donnees
+* 02-serialisation-native-avec-qdatastream
+* 03-serialisation-json-avec-qjsondocument
+* 04-serialisation-xml-avec-qxmlstreamwriter-reader
+* 05-stockage-local-avec-qsettings
+
+### dossier : 05-communication-reseau
+
+* 01-api-reseau-de-qt-qnetworkaccessmanager
+* 02-websockets-avec-qt
+* 03-rest-api-avec-qt-network
+* 04-bluetooth-et-nfc-avec-qt
+
+### dossier : 06-multimedia-et-graphiques
+
+* 01-traitement-d-images-avec-qt
+* 02-audio-et-video-avec-qt-multimedia
+* 03-graphiques-vectoriels-avec-qt-svg
+* 04-animations-et-transitions
+
+### dossier : 07-multithreading-et-concurrence
+
+* 01-qthread-et-gestion-des-threads
+* 02-programmation-asynchrone-avec-qfuture-et-qtconcurrent
+* 03-synchronisation-avec-qmutex-et-qsemaphore
+* 04-modele-d-acteur-avec-qt
+
+### dossier : 08-tests-et-debogage
+
+* 01-tests-unitaires-avec-qt-test
+* 02-debogage-avec-qt-creator
+* 03-profilage-avec-qt-performance-analyzer
+* 04-gestion-des-erreurs-et-exceptions
+
+### dossier : 09-developpement-multiplateforme-avec-qt6
+
+* 01-configuration-des-projets-multi-plateformes-avec-cmake
+* 02-specificites-windows-linux-macos
+* 03-developpement-mobile-android-ios
+* 04-gestion-des-ressources-multi-plateformes
+* 05-deploiement-d-applications-qt
+
+### dossier : 10-integration-et-extensions
+
+* 01-integration-de-bibliotheques-cpp-tierces
+* 02-creation-de-plugins-qt
+* 03-integration-de-code-natif-jni-objective-c
+* 04-extensions-python-avec-pyqt6-pyside6
+
+### dossier : 11-bonnes-pratiques-qt6
+
+* 01-gestion-memoire-et-pointeurs-intelligents
+* 02-optimisation-des-performances
+* 03-architecture-d-applications-robustes
+* 04-securite-des-applications-qt
+
+"
+
+
+
+
