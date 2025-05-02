@@ -1,5 +1,7 @@
 # 6.2 Audio et vidéo avec Qt Multimedia
 
+🔝 Retour à la [Table des matières](/SOMMAIRE.md)
+
 ## Introduction à Qt Multimedia
 
 Qt Multimedia est un module puissant qui permet d'intégrer facilement des fonctionnalités audio et vidéo dans vos applications. Que vous souhaitiez créer un lecteur multimédia, capturer de l'audio/vidéo depuis un microphone ou une webcam, ou simplement jouer des sons dans votre application, Qt Multimedia vous offre les outils nécessaires.
@@ -1121,3 +1123,5 @@ Dans ce chapitre, nous avons couvert les bases de la lecture et de la capture au
 N'oubliez pas que la documentation officielle de Qt est une excellente ressource pour approfondir votre compréhension de Qt Multimedia et découvrir toutes ses fonctionnalités.
 
 Bon développement multimédia avec Qt6 !
+
+⏭️ [Graphiques vectoriels avec Qt SVG](/06-multimedia-et-graphiques/03-graphiques-vectoriels-avec-qt-svg.md)

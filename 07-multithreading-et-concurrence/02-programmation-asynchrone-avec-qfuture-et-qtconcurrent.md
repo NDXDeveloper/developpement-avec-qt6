@@ -1,5 +1,7 @@
 # 7.2 Programmation asynchrone avec QFuture et QtConcurrent
 
+🔝 Retour à la [Table des matières](/SOMMAIRE.md)
+
 ## Introduction
 
 La programmation asynchrone est une approche qui vous permet de lancer des opérations sans bloquer le thread principal de votre application. Dans Qt6, `QFuture` et le module `QtConcurrent` offrent une solution élégante et simple pour gérer ces opérations asynchrones.
@@ -276,3 +278,4 @@ try {
 
 Pour les opérations simples sur des collections ou pour exécuter une fonction dans un thread séparé, `QtConcurrent` est souvent un meilleur choix que `QThread` directement, car il nécessite beaucoup moins de code et de configuration.
 
+⏭️ [Synchronisation avec QMutex et QSemaphore](/07-multithreading-et-concurrence/03-synchronisation-avec-qmutex-et-qsemaphore.md)

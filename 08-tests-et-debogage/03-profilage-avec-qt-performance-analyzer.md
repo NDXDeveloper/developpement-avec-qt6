@@ -1,5 +1,7 @@
 # 8.3 Profilage avec Qt Performance Analyzer
 
+🔝 Retour à la [Table des matières](/SOMMAIRE.md)
+
 ## Qu'est-ce que le profilage et pourquoi est-il important ?
 
 Le profilage est le processus qui consiste à analyser les performances de votre application pour identifier les parties qui sont lentes ou qui consomment trop de ressources. Contrairement au débogage qui vous aide à trouver des bugs, le profilage vous aide à rendre votre application plus rapide et plus efficace.
@@ -369,3 +371,5 @@ Rappelez-vous ces principes d'optimisation:
 - Vérifiez toujours l'impact de vos optimisations en profilant avant et après
 
 En intégrant régulièrement le profilage dans votre processus de développement, vous créerez des applications Qt plus rapides, plus fluides et plus économes en ressources.
+
+⏭️ [Gestion des erreurs et exceptions](/08-tests-et-debogage/04-gestion-des-erreurs-et-exceptions.md)

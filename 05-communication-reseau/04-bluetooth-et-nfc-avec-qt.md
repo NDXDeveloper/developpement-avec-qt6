@@ -1,5 +1,7 @@
 # 5.4 Bluetooth et NFC avec Qt
 
+🔝 Retour à la [Table des matières](/SOMMAIRE.md)
+
 ## Introduction aux technologies sans fil dans Qt
 
 Les technologies sans fil comme Bluetooth et NFC (Near Field Communication) sont essentielles pour de nombreuses applications modernes. Qt propose des modules dédiés qui simplifient grandement le développement d'applications utilisant ces technologies. Ce chapitre vous guidera à travers les bases de la programmation Bluetooth et NFC avec Qt.
@@ -1802,3 +1804,5 @@ Pour consolider vos connaissances, voici quelques exercices pratiques :
 2. Développez un système de contrôle domotique où NFC est utilisé pour activer des profils, et Bluetooth pour communiquer avec les appareils.
 3. Implémentez un système de partage de fichiers utilisant NFC pour l'initiation et Bluetooth pour le transfert des données.
 4. Créez une application de présence qui utilise des beacons Bluetooth pour enregistrer quand les utilisateurs entrent ou quittent certaines zones.
+
+⏭️ [Multimédia et graphiques](/06-multimedia-et-graphiques)

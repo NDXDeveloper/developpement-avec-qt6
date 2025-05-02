@@ -1,5 +1,7 @@
 # 8.1 Tests unitaires avec Qt Test
 
+🔝 Retour à la [Table des matières](/SOMMAIRE.md)
+
 Les tests unitaires sont une pratique fondamentale en développement logiciel qui consiste à tester individuellement des parties isolées de votre code (généralement des fonctions ou des méthodes) pour vérifier qu'elles fonctionnent correctement. Qt fournit un framework de test unitaire appelé **Qt Test** qui est spécialement conçu pour tester des applications Qt.
 
 ## Pourquoi faire des tests unitaires ?
@@ -406,3 +408,5 @@ Qt Test offre plusieurs options pour personnaliser l'exécution des tests :
 Qt Test fournit un framework puissant et facile à utiliser pour les tests unitaires d'applications Qt. En intégrant les tests unitaires dans votre processus de développement, vous améliorerez considérablement la qualité de votre code et réduirez le temps passé à déboguer des problèmes.
 
 Dans la section suivante, nous explorerons les outils de débogage intégrés à Qt Creator, qui vous aideront à identifier et résoudre les problèmes dans votre code.
+
+⏭️ [Débogage avec Qt Creator](/08-tests-et-debogage/02-debogage-avec-qt-creator.md)

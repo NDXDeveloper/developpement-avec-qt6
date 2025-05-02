@@ -1,5 +1,7 @@
 # Introduction à Qt6
 
+🔝 Retour à la [Table des matières](/SOMMAIRE.md)
+
 ## Bienvenue dans le monde de Qt6 !
 
 Qt6 est un framework de développement multiplateforme qui permet de créer des applications graphiques modernes et performantes. Que vous soyez débutant en programmation ou développeur expérimenté souhaitant explorer de nouveaux outils, ce tutoriel vous accompagnera dans vos premiers pas avec Qt6.
@@ -36,3 +38,5 @@ Qt6 convient à un large éventail d'utilisateurs :
 Dans ce tutoriel, nous explorerons les fondamentaux de Qt6 en commençant par les bases. Vous découvrirez comment configurer votre environnement de développement, comprendre la philosophie de Qt et créer vos premières applications. Au fur et à mesure, nous aborderons des sujets plus avancés pour vous permettre de maîtriser ce puissant framework.
 
 Préparez-vous à entrer dans l'univers passionnant du développement avec Qt6 !
+
+⏭️ [Nouveautés de Qt6 par rapport à Qt5](/01-introduction-a-qt6/01-nouveautes-de-qt6-par-rapport-a-qt5.md)

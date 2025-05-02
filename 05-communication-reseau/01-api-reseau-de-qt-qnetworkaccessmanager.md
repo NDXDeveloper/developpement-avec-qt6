@@ -1,5 +1,7 @@
 # 5.1 API réseau de Qt (QNetworkAccessManager)
 
+🔝 Retour à la [Table des matières](/SOMMAIRE.md)
+
 ## Introduction à QNetworkAccessManager
 
 QNetworkAccessManager est la classe principale de Qt pour gérer les communications réseau. Elle agit comme un centre de contrôle pour toutes vos requêtes HTTP, vous permettant d'accéder facilement à des ressources en ligne, d'interagir avec des API REST, de télécharger des fichiers, et bien plus encore.
@@ -381,3 +383,5 @@ int main(int argc, char *argv[])
 QNetworkAccessManager est une classe puissante qui simplifie considérablement les communications réseau dans vos applications Qt. En suivant les principes asynchrones de Qt, vous pouvez créer des applications réseau réactives et robustes.
 
 À mesure que vous vous familiariserez avec cette API, vous découvrirez qu'elle peut gérer des scénarios de plus en plus complexes, de l'authentification à la mise en cache, en passant par le téléchargement de fichiers volumineux.
+
+⏭️ [WebSockets avec Qt](/05-communication-reseau/02-websockets-avec-qt.md)

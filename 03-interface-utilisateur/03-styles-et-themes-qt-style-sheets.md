@@ -1,5 +1,7 @@
 # 3.3 Styles et thèmes (Qt Style Sheets)
 
+🔝 Retour à la [Table des matières](/SOMMAIRE.md)
+
 Une interface utilisateur attrayante est essentielle pour offrir une bonne expérience à vos utilisateurs. Qt6 propose plusieurs mécanismes pour personnaliser l'apparence de vos applications, dont le plus puissant est Qt Style Sheets (QSS). Ce système, inspiré des CSS (Cascading Style Sheets) utilisés pour le web, vous permet de transformer radicalement l'apparence de vos applications.
 
 ## Introduction aux Qt Style Sheets
@@ -787,3 +789,5 @@ Qt Style Sheets est un moyen puissant de personnaliser l'apparence de vos applic
 Que vous souhaitiez simplement ajuster quelques couleurs ou créer un thème complet, QSS vous offre la flexibilité nécessaire pour répondre à vos besoins de design. En maîtrisant les sélecteurs, les propriétés et les pseudo-états, vous pourrez transformer radicalement l'apparence de vos applications Qt6.
 
 Dans la prochaine section, nous explorerons l'internationalisation avec Qt Linguist pour rendre vos applications accessibles à un public international.
+
+⏭️ [Internationalisation (i18n) avec Qt Linguist](/03-interface-utilisateur/04-internationalisation-i18n-avec-qt-linguist.md)

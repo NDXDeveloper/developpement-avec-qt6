@@ -1,5 +1,7 @@
 # 11.2 Optimisation des performances
 
+🔝 Retour à la [Table des matières](/SOMMAIRE.md)
+
 ## Introduction à l'optimisation des performances
 
 Créer une application Qt6 fonctionnelle est une première étape importante, mais pour offrir une expérience utilisateur fluide et réactive, l'optimisation des performances devient essentielle. Ce chapitre vous guidera à travers les concepts fondamentaux et les techniques pratiques pour améliorer les performances de vos applications Qt6.
@@ -468,3 +470,5 @@ public:
 L'optimisation des performances est un processus continu qui doit être intégré tout au long du cycle de développement. En appliquant les techniques présentées dans ce chapitre, vous pourrez créer des applications Qt6 rapides et réactives qui offriront une excellente expérience utilisateur.
 
 Dans le prochain chapitre, nous aborderons comment créer des architectures d'applications robustes avec Qt6.
+
+⏭️ [Architecture d'applications robustes](/11-bonnes-pratiques-qt6/03-architecture-d-applications-robustes.md)

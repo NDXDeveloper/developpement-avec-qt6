@@ -1,5 +1,7 @@
 # 4. Persistance des données
 
+🔝 Retour à la [Table des matières](/SOMMAIRE.md)
+
 ## Introduction à la persistance des données
 
 La persistance des données est un concept fondamental dans le développement d'applications. Elle permet de sauvegarder des informations de manière durable, afin qu'elles soient disponibles même après la fermeture de l'application ou le redémarrage de l'ordinateur.
@@ -66,3 +68,5 @@ Nous verrons comment :
 - Choisir la méthode la plus adaptée à vos besoins spécifiques
 
 Chaque méthode sera illustrée par des exemples de code simples et complets pour vous aider à comprendre et appliquer ces concepts dans vos propres applications.
+
+⏭️ [Qt SQL et les bases de données](/04-persistance-des-donnees/01-qt-sql-et-les-bases-de-donnees.md)

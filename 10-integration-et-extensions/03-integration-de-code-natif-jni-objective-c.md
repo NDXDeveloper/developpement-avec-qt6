@@ -1,5 +1,7 @@
 # 10.3 Intégration de code natif (JNI, Objective-C)
 
+🔝 Retour à la [Table des matières](/SOMMAIRE.md)
+
 ## Introduction
 
 L'un des grands avantages de Qt est sa portabilité multiplateforme, qui vous permet d'écrire du code une seule fois et de le déployer sur Windows, macOS, Linux, Android, iOS et d'autres plateformes. Cependant, il arrive parfois que vous ayez besoin d'accéder à des fonctionnalités spécifiques à une plateforme qui ne sont pas directement exposées par Qt. Dans ces cas, l'intégration de code natif devient nécessaire.
@@ -524,3 +526,5 @@ Documentez clairement toutes les exigences et dépendances spécifiques à la pl
 L'intégration de code natif dans vos applications Qt6 vous permet d'accéder à des fonctionnalités spécifiques à la plateforme tout en maintenant la portabilité de votre application. En utilisant JNI pour Android et Objective-C pour iOS/macOS, vous pouvez combiner le meilleur des deux mondes : la puissance et l'expressivité de Qt pour la majeure partie de votre application, et l'accès direct aux API natives lorsque nécessaire.
 
 En suivant les bonnes pratiques présentées dans cette section, vous pouvez créer des applications Qt multiplateforme robustes qui offrent une expérience utilisateur optimale sur chaque plateforme, tout en minimisant la quantité de code spécifique à chaque plateforme que vous devez maintenir.
+
+⏭️ [Extensions Python avec PyQt6/PySide6](/10-integration-et-extensions/04-extensions-python-avec-pyqt6-pyside6.md)

@@ -1,5 +1,7 @@
 # 11.4 Sécurité des applications Qt
 
+🔝 Retour à la [Table des matières](/SOMMAIRE.md)
+
 ## Introduction à la sécurité des applications
 
 La sécurité est un aspect fondamental du développement d'applications modernes, souvent négligé jusqu'à ce qu'un incident se produise. Dans ce chapitre, nous explorerons les bonnes pratiques et techniques pour sécuriser vos applications Qt6, en adoptant une approche préventive plutôt que réactive.
@@ -2061,3 +2063,5 @@ Pour les débutants qui souhaitent intégrer la sécurité dans leurs applicatio
 6. **Testez, testez, testez** : Essayez activement de "casser" votre propre application pour identifier les faiblesses.
 
 Rappelez-vous que sécuriser une application est un équilibre entre la protection des données et l'expérience utilisateur. L'objectif est de créer une application qui soit à la fois sécurisée et conviviale.
+
+🔝 Retour à la [Table des matières](/SOMMAIRE.md)

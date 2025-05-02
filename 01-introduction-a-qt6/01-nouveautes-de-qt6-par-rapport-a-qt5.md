@@ -1,5 +1,7 @@
 # 1.1 Nouveautés de Qt6 par rapport à Qt5
 
+🔝 Retour à la [Table des matières](/SOMMAIRE.md)
+
 Qt6 représente une évolution majeure par rapport à Qt5, avec de nombreuses améliorations et nouveautés. Voici les principaux changements que vous devez connaître en tant que débutant.
 
 ## Refonte du système graphique
@@ -70,3 +72,5 @@ Si vous débutez avec Qt, ces changements techniques peuvent sembler intimidants
 3. **Documentation plus claire** - La documentation de Qt6 a été revue et améliorée pour les nouveaux utilisateurs
 
 N'ayez pas d'inquiétude si tout cela semble complexe pour l'instant - nous aborderons chaque aspect progressivement dans ce tutoriel!
+
+⏭️ [Installation et configuration de l'environnement](/01-introduction-a-qt6/02-installation-et-configuration-de-l-environnement.md)

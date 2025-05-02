@@ -1,5 +1,7 @@
 # 6.4 Animations et transitions
 
+🔝 Retour à la [Table des matières](/SOMMAIRE.md)
+
 ## Introduction aux animations dans Qt
 
 Les animations sont un moyen efficace de rendre votre interface utilisateur plus dynamique et intuitive. Qt6 offre plusieurs façons d'ajouter des animations et des transitions à vos applications, depuis des solutions simples jusqu'à des systèmes d'animation complexes.
@@ -669,3 +671,5 @@ Dans ce chapitre, nous avons exploré les bases des animations de propriétés, 
 - [Documentation sur QPropertyAnimation](https://doc.qt.io/qt-6/qpropertyanimation.html)
 - [Documentation sur QStateMachine](https://doc.qt.io/qt-6/qstatemachine.html)
 - [Tutoriels sur les animations en QML](https://doc.qt.io/qt-6/qtquick-animation.html)
+
+⏭️ [Multithreading et concurrence](/07-multithreading-et-concurrence)

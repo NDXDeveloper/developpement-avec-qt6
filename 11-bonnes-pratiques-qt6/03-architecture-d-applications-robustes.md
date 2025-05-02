@@ -1,5 +1,7 @@
 # 11.3 Architecture d'applications robustes
 
+🔝 Retour à la [Table des matières](/SOMMAIRE.md)
+
 ## Introduction à l'architecture robuste
 
 La création d'une application Qt6 durable et évolutive nécessite plus que de bonnes pratiques de codage : elle demande une architecture solide. Dans ce chapitre, nous allons explorer comment concevoir des applications robustes qui peuvent résister à l'évolution des exigences, faciliter la maintenance et garantir la fiabilité.
@@ -751,3 +753,5 @@ Pour créer des applications Qt6 robustes, souvenez-vous de ces principes essent
 En suivant ces principes, vous créerez des applications Qt6 qui pourront évoluer, être maintenues facilement et rester robustes face aux changements.
 
 Dans la prochaine section, nous explorerons les meilleures pratiques pour sécuriser vos applications Qt6.
+
+⏭️ [Sécurité des applications Qt](/11-bonnes-pratiques-qt6/04-securite-des-applications-qt.md)

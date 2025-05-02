@@ -1,5 +1,7 @@
 # 2.3 Architecture Model-View-Controller (MVC)
 
+🔝 Retour à la [Table des matières](/SOMMAIRE.md)
+
 L'architecture Model-View-Controller (MVC) est un modèle de conception fondamental dans le développement d'applications modernes. Qt6 implémente une variante de ce modèle, parfois appelée architecture Model-View, qui vous aidera à créer des applications bien structurées et faciles à maintenir.
 
 ## Qu'est-ce que l'architecture MVC ?
@@ -439,3 +441,5 @@ L'architecture MVC (ou Modèle-Vue dans Qt) est un concept puissant qui vous aid
 Qt6 fournit un cadre riche pour implémenter cette architecture, avec des classes de base pour les modèles et une variété de vues prêtes à l'emploi. Maîtriser ces concepts vous permettra de créer des applications robustes et évolutives, capables de gérer efficacement des données complexes.
 
 Dans la prochaine section, nous explorerons l'organisation modulaire du code dans Qt6, une autre approche essentielle pour maintenir la qualité de vos applications au fur et à mesure qu'elles grandissent.
+
+⏭️ [Organisation modulaire du code](/02-architecture-d-applications-qt6/04-organisation-modulaire-du-code.md)

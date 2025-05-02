@@ -1,5 +1,7 @@
 # 2.1 Modèle d'application Qt (QApplication)
 
+🔝 Retour à la [Table des matières](/SOMMAIRE.md)
+
 La classe `QApplication` est le cœur de toute application Qt. Elle gère le cycle de vie de votre application et coordonne tous ses aspects essentiels. Comprendre `QApplication` est donc fondamental pour maîtriser le développement avec Qt6.
 
 ## Qu'est-ce que QApplication ?
@@ -290,3 +292,5 @@ int main(int argc, char *argv[])
 `QApplication` est le point de départ de toute application Qt. Cette classe gère la boucle d'événements, qui est au cœur du fonctionnement réactif de votre application. Elle offre également de nombreuses fonctionnalités utiles pour personnaliser et gérer votre application.
 
 Dans la section suivante, nous explorerons les systèmes de widgets et QML qui vous permettront de créer des interfaces utilisateur riches et interactives.
+
+⏭️ [Système de widgets et QML](/02-architecture-d-applications-qt6/02-systeme-de-widgets-et-qml.md)

@@ -1,5 +1,7 @@
 # 11. Bonnes Pratiques Qt6
 
+🔝 Retour à la [Table des matières](/SOMMAIRE.md)
+
 ## Introduction aux bonnes pratiques
 
 Bienvenue dans ce chapitre consacré aux bonnes pratiques lors du développement avec Qt6. Que vous soyez débutant ou développeur plus expérimenté, l'adoption de bonnes pratiques vous permettra de créer des applications Qt6 plus robustes, maintenables et performantes.
@@ -247,3 +249,5 @@ QTEST_MAIN(TestCalculateur)
 L'adoption de bonnes pratiques dans vos projets Qt6 est un investissement qui porte ses fruits sur le long terme. Ces principes vous aideront à éviter les pièges courants et à construire des applications robustes et maintenables.
 
 Dans les sections suivantes, nous approfondirons des aspects spécifiques de ces bonnes pratiques, en commençant par la gestion mémoire et les pointeurs intelligents.
+
+⏭️ [Gestion mémoire et pointeurs intelligents](/11-bonnes-pratiques-qt6/01-gestion-memoire-et-pointeurs-intelligents.md)

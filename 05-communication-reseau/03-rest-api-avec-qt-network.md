@@ -1,5 +1,7 @@
 # 5.3 REST API avec Qt Network
 
+🔝 Retour à la [Table des matières](/SOMMAIRE.md)
+
 ## Introduction aux API REST
 
 REST (Representational State Transfer) est un style d'architecture pour créer des services web. Une API REST est une interface qui permet à différentes applications de communiquer entre elles via le protocole HTTP. À l'heure actuelle, c'est l'une des méthodes les plus populaires pour développer des services web, car elle est simple, standardisée et facile à utiliser.
@@ -1405,3 +1407,5 @@ L'utilisation des API REST avec Qt Network offre une flexibilité et une puissan
 7. **Documentation** : Documentez bien vos interfaces avec les API pour faciliter la maintenance
 
 En suivant ces bonnes pratiques et en utilisant les techniques décrites dans ce tutoriel, vous serez en mesure de créer des applications Qt robustes qui interagissent efficacement avec des API REST.
+
+⏭️ [Bluetooth et NFC avec Qt](/05-communication-reseau/04-bluetooth-et-nfc-avec-qt.md)

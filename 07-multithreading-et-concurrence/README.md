@@ -1,5 +1,7 @@
 # 7. Multithreading et concurrence
 
+🔝 Retour à la [Table des matières](/SOMMAIRE.md)
+
 ## Introduction
 
 Le multithreading est une technique puissante qui permet à une application d'exécuter plusieurs tâches simultanément. Dans les applications modernes, cette capacité est essentielle pour créer des interfaces utilisateur réactives tout en effectuant des opérations longues ou complexes en arrière-plan.
@@ -89,3 +91,5 @@ Voici quelques règles importantes à suivre pour éviter les problèmes :
 Le multithreading dans Qt6 offre des possibilités puissantes pour améliorer les performances et la réactivité de vos applications. En comprenant les concepts de base et en utilisant les outils appropriés fournis par Qt, vous pouvez tirer parti de la programmation concurrentielle sans tomber dans ses pièges classiques.
 
 Dans les sections suivantes, nous explorerons en détail chaque outil de concurrence de Qt6, avec des exemples pratiques et des conseils pour les utiliser efficacement.
+
+⏭️ [QThread et gestion des threads](/07-multithreading-et-concurrence/01-qthread-et-gestion-des-threads.md)

@@ -1,5 +1,7 @@
 # 1.2 Installation et configuration de l'environnement
 
+🔝 Retour à la [Table des matières](/SOMMAIRE.md)
+
 Dans cette section, nous allons vous guider pas à pas pour installer Qt6 et configurer votre environnement de développement. Ne vous inquiétez pas si vous débutez, nous avons simplifié les instructions pour vous aider à démarrer rapidement.
 
 ## Téléchargement de Qt6
@@ -120,3 +122,5 @@ Sur Linux, si vous rencontrez cette erreur :
 ## Prochaines étapes
 
 Maintenant que votre environnement Qt6 est configuré, vous êtes prêt à commencer à développer ! Dans la section suivante, nous explorerons Qt Creator plus en détail et découvrirons ses fonctionnalités.
+
+⏭️ [Qt Creator 10+ et ses fonctionnalités](/01-introduction-a-qt6/03-qt-creator-10-et-ses-fonctionnalites.md)

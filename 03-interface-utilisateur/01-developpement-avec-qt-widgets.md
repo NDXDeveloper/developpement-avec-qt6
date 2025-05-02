@@ -1,5 +1,7 @@
 # 3.1 Développement avec Qt Widgets
 
+🔝 Retour à la [Table des matières](/SOMMAIRE.md)
+
 Qt Widgets est l'approche traditionnelle pour créer des interfaces utilisateur dans Qt. Cette technologie éprouvée vous permet de construire des applications de bureau robustes avec un aspect natif sur différentes plateformes. Dans cette section, nous explorerons les fondamentaux du développement avec Qt Widgets.
 
 ## Les bases des widgets
@@ -632,3 +634,5 @@ int main(int argc, char *argv[])
 Le développement avec Qt Widgets offre une approche puissante et éprouvée pour créer des applications de bureau. En maîtrisant les concepts de base comme les widgets, les layouts, les signaux et slots, vous pouvez créer des interfaces utilisateur riches et fonctionnelles qui s'adaptent aux différentes plateformes.
 
 Dans la prochaine section, nous explorerons Qt Quick et QML, une approche plus moderne pour créer des interfaces utilisateur avec Qt6.
+
+⏭️ [Développement avec Qt Quick/QML](/03-interface-utilisateur/02-developpement-avec-qt-quick-qml.md)

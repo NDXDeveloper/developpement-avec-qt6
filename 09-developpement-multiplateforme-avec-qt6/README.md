@@ -1,5 +1,7 @@
 # 9. Développement multiplateforme avec Qt6
 
+🔝 Retour à la [Table des matières](/SOMMAIRE.md)
+
 ## Introduction
 
 L'un des principaux avantages de Qt est sa capacité à créer des applications qui fonctionnent sur plusieurs plateformes à partir d'une base de code commune. Cette section vous présente les concepts fondamentaux du développement multiplateforme avec Qt6.
@@ -140,3 +142,5 @@ Conseils pour un développement efficace :
 Le développement multiplateforme avec Qt6 vous permet de maximiser la portée de vos applications tout en minimisant les efforts de développement. En suivant les principes et bonnes pratiques présentés dans cette section, vous pourrez créer des applications qui fonctionnent de manière cohérente et efficace sur différentes plateformes.
 
 Dans les sections suivantes, nous explorerons en détail les spécificités de chaque plateforme et les techniques avancées pour optimiser vos applications Qt6 multiplateforme.
+
+⏭️ [Configuration des projets multi-plateformes avec CMake](/09-developpement-multiplateforme-avec-qt6/01-configuration-des-projets-multi-plateformes-avec-cmake.md)

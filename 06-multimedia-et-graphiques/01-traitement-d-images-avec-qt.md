@@ -1,5 +1,7 @@
 # 6.1 Traitement d'images avec Qt
 
+🔝 Retour à la [Table des matières](/SOMMAIRE.md)
+
 ## Introduction au traitement d'images
 
 Le traitement d'images est une fonctionnalité essentielle pour de nombreuses applications modernes, qu'il s'agisse de retoucher des photos, d'analyser des données visuelles ou simplement d'afficher des images dans votre interface. Qt6 offre un ensemble d'outils puissants mais accessibles pour manipuler les images.
@@ -619,3 +621,5 @@ Le traitement d'images est un domaine vaste, et Qt6 offre de nombreuses fonction
 - [Documentation Qt sur QImage](https://doc.qt.io/qt-6/qimage.html)
 - [Documentation Qt sur QPixmap](https://doc.qt.io/qt-6/qpixmap.html)
 - [Tutoriels sur le traitement d'images avec Qt](https://doc.qt.io/qt-6/qtimageprocessing-index.html)
+
+⏭️ [Audio et vidéo avec Qt Multimedia](/06-multimedia-et-graphiques/02-audio-et-video-avec-qt-multimedia.md)

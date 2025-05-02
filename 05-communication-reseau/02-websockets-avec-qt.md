@@ -1,5 +1,7 @@
 # 5.2 WebSockets avec Qt
 
+🔝 Retour à la [Table des matières](/SOMMAIRE.md)
+
 ## Introduction aux WebSockets
 
 Les WebSockets représentent une technologie de communication bidirectionnelle qui permet d'établir une connexion persistante entre un client et un serveur. Contrairement au HTTP traditionnel, où chaque requête nécessite l'établissement d'une nouvelle connexion, les WebSockets maintiennent une connexion ouverte, permettant ainsi l'échange de données en temps réel dans les deux sens.
@@ -632,3 +634,5 @@ Les WebSockets offrent un moyen puissant et efficace de créer des applications 
 En comprenant les concepts de base présentés dans ce tutoriel, vous êtes maintenant prêt à intégrer des communications WebSocket dans vos applications Qt pour créer des expériences utilisateur dynamiques et réactives.
 
 Pour aller plus loin, explorez la documentation officielle de Qt sur les WebSockets et expérimentez avec différents types d'applications comme les tableaux de bord en temps réel, les jeux multijoueurs ou les systèmes de messagerie instantanée.
+
+⏭️ [REST API avec Qt Network](/05-communication-reseau/03-rest-api-avec-qt-network.md)

@@ -1,5 +1,7 @@
 # 8.2 Débogage avec Qt Creator
 
+🔝 Retour à la [Table des matières](/SOMMAIRE.md)
+
 Le débogage est une compétence essentielle pour tout développeur. Qt Creator intègre un débogueur puissant qui vous aide à trouver et à corriger les problèmes dans votre code. Ce chapitre vous guidera à travers les fonctionnalités de débogage de Qt Creator et vous montrera comment les utiliser efficacement.
 
 ## Qu'est-ce que le débogage ?
@@ -249,3 +251,5 @@ Le débogage est autant un art qu'une science. Plus vous pratiquerez, plus vous 
 N'oubliez pas que le meilleur bug est celui qui n'est jamais introduit. Combinez le débogage avec de bonnes pratiques de test et une conception soignée pour créer des applications Qt plus robustes et plus fiables.
 
 Dans la section suivante, nous explorerons le profilage avec Qt Performance Analyzer, qui vous aidera à optimiser les performances de vos applications.
+
+⏭️ [Profilage avec Qt Performance Analyzer](/08-tests-et-debogage/03-profilage-avec-qt-performance-analyzer.md)

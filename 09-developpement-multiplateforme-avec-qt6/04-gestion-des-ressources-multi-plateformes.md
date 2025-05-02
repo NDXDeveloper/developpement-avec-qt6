@@ -1,5 +1,7 @@
 # 9.4 Gestion des ressources multi-plateformes
 
+🔝 Retour à la [Table des matières](/SOMMAIRE.md)
+
 ## Introduction
 
 La gestion efficace des ressources (images, fichiers de configuration, sons, etc.) est un aspect crucial du développement d'applications multiplateformes. Qt6 offre plusieurs mécanismes pour gérer ces ressources de manière cohérente sur toutes les plateformes. Cette section vous guidera à travers les différentes approches et bonnes pratiques.
@@ -530,3 +532,5 @@ La gestion efficace des ressources est essentielle pour créer des applications 
 En suivant les bonnes pratiques présentées dans cette section, vous pourrez organiser vos ressources de manière claire et maintenable, tout en garantissant une expérience utilisateur optimale sur toutes les plateformes.
 
 La prochaine section explorera le déploiement d'applications Qt6, l'étape finale pour mettre votre application entre les mains des utilisateurs.
+
+⏭️ [Déploiement d'applications Qt](/09-developpement-multiplateforme-avec-qt6/05-deploiement-d-applications-qt.md)

@@ -1,5 +1,7 @@
 # 6.3 Graphiques vectoriels avec Qt SVG
 
+🔝 Retour à la [Table des matières](/SOMMAIRE.md)
+
 ## Introduction aux graphiques vectoriels
 
 Les graphiques vectoriels sont différents des images bitmap (comme les JPEG ou PNG) que nous avons vues précédemment. Au lieu de stocker l'information pixel par pixel, les graphiques vectoriels décrivent des formes mathématiques comme des lignes, des courbes et des polygones. Cela offre plusieurs avantages :
@@ -720,3 +722,5 @@ Dans ce chapitre, nous avons exploré les bases de l'affichage et de la créatio
 - [Tutoriels SVG sur MDN](https://developer.mozilla.org/fr/docs/Web/SVG/Tutorial)
 - [Éditeur SVG en ligne Inkscape](https://inkscape.org/) (pour créer des SVG)
 - [SVG Optimiser](https://github.com/svg/svgo) (pour optimiser la taille des fichiers SVG)
+
+⏭️ [Animations et transitions](/06-multimedia-et-graphiques/04-animations-et-transitions.md)

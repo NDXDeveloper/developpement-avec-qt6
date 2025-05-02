@@ -1,5 +1,7 @@
 # 9.3 Développement mobile (Android, iOS)
 
+🔝 Retour à la [Table des matières](/SOMMAIRE.md)
+
 ## Introduction
 
 Qt6 offre des capacités puissantes pour développer des applications mobiles sur Android et iOS à partir d'une base de code commune. Cette section vous guidera à travers les étapes essentielles pour créer, configurer et déployer des applications Qt6 sur ces plateformes mobiles.
@@ -571,3 +573,5 @@ Pour publier sur l'App Store :
 Le développement mobile avec Qt6 vous permet de créer des applications pour Android et iOS à partir d'une base de code commune, tout en offrant la possibilité d'accéder aux fonctionnalités spécifiques à chaque plateforme. Bien que la configuration initiale puisse sembler complexe, Qt Creator simplifie grandement le processus de développement et de déploiement.
 
 Dans la section suivante, nous explorerons la gestion des ressources multi-plateformes, une compétence essentielle pour créer des applications efficaces sur toutes les plateformes.
+
+⏭️ [Gestion des ressources multi-plateformes](/09-developpement-multiplateforme-avec-qt6/04-gestion-des-ressources-multi-plateformes.md)

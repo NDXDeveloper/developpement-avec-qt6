@@ -1,5 +1,7 @@
 # 1.3 Qt Creator 10+ et ses fonctionnalités
 
+🔝 Retour à la [Table des matières](/SOMMAIRE.md)
+
 Qt Creator est l'environnement de développement intégré (IDE) officiel pour Qt. La version 10+ offre de nombreuses fonctionnalités puissantes qui vous aideront à développer vos applications Qt6 efficacement. Découvrons ensemble ces outils qui rendront votre expérience de développement plus agréable.
 
 ## Interface utilisateur de Qt Creator
@@ -187,3 +189,5 @@ Les dernières versions de Qt Creator apportent des améliorations notables :
 ---
 
 Dans la prochaine section, nous explorerons le principe fondamental de Qt : les signaux et slots, qui permettent la communication entre les objets de vos applications.
+
+⏭️ [Principe des signaux et slots dans Qt6](/01-introduction-a-qt6/04-principe-des-signaux-et-slots-dans-qt6.md)

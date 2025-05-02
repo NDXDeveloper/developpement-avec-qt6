@@ -1,5 +1,7 @@
 # 4.4 Sérialisation XML avec QXmlStreamWriter/Reader
 
+🔝 Retour à la [Table des matières](/SOMMAIRE.md)
+
 ## Introduction au format XML
 
 XML (eXtensible Markup Language) est un format de données textuelles structuré par des balises qui permet de représenter des informations hiérarchiques complexes. C'est un format largement utilisé pour l'échange de données, les fichiers de configuration et le stockage de documents structurés.
@@ -787,3 +789,5 @@ QXmlStreamWriter et QXmlStreamReader offrent une solution efficace et flexible p
 - La représentation de données hiérarchiques complexes
 
 Dans la prochaine section, nous explorerons une méthode plus simple pour stocker les paramètres d'application : QSettings.
+
+⏭️ [Stockage local avec QSettings](/04-persistance-des-donnees/05-stockage-local-avec-qsettings.md)

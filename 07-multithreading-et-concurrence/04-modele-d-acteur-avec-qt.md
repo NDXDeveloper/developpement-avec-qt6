@@ -1,5 +1,7 @@
 # 7.4 Modèle d'acteur avec Qt
 
+🔝 Retour à la [Table des matières](/SOMMAIRE.md)
+
 ## Introduction au modèle d'acteur
 
 Le modèle d'acteur est une approche élégante de la programmation concurrente qui diffère des techniques traditionnelles basées sur les threads et les verrous. Ce modèle considère les "acteurs" comme l'unité fondamentale de calcul : chaque acteur est une entité isolée qui peut :
@@ -461,3 +463,5 @@ Le modèle d'acteur est une approche puissante de la programmation concurrente q
 En utilisant ce modèle, vous pouvez concevoir des systèmes évolutifs et modulaires, où chaque composant (acteur) a une responsabilité claire et communique par messages, ce qui facilite la maintenance et l'extension du code.
 
 Dans Qt, bien que le modèle d'acteur ne soit pas directement fourni comme framework, les outils existants (QObject, signaux/slots, QThread) permettent de l'implémenter de manière élégante et efficace.
+
+⏭️ [Tests et débogage](/08-tests-et-debogage)

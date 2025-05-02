@@ -1,5 +1,7 @@
 # Chapitre 5: Communication réseau
 
+🔝 Retour à la [Table des matières](/SOMMAIRE.md)
+
 ## Introduction à la communication réseau avec Qt6
 
 La communication réseau est une fonctionnalité essentielle pour de nombreuses applications modernes. Qu'il s'agisse de télécharger des données depuis un serveur web, d'interagir avec des API REST, ou de créer des applications qui communiquent entre elles, Qt6 offre un ensemble complet d'outils pour faciliter le développement d'applications connectées.
@@ -128,3 +130,5 @@ requete.setSslConfiguration(QSslConfiguration::defaultConfiguration());
 La communication réseau avec Qt6 offre une approche puissante et flexible pour créer des applications connectées. Grâce à son architecture asynchrone et à ses API bien conçues, Qt6 facilite grandement le développement d'applications qui interagissent avec des services en ligne ou d'autres systèmes.
 
 Dans les sections suivantes, nous explorerons en détail chacune des principales classes et techniques pour maîtriser le développement réseau avec Qt6.
+
+⏭️ [API réseau de Qt (QNetworkAccessManager)](/05-communication-reseau/01-api-reseau-de-qt-qnetworkaccessmanager.md)

@@ -1,5 +1,7 @@
 # 4.2 Sérialisation native avec QDataStream
 
+🔝 Retour à la [Table des matières](/SOMMAIRE.md)
+
 ## Introduction à la sérialisation avec QDataStream
 
 La sérialisation est le processus qui transforme des objets en mémoire en une séquence d'octets pouvant être stockée dans un fichier ou transmise sur un réseau. QDataStream est la solution native de Qt pour effectuer cette sérialisation au format binaire.
@@ -466,3 +468,5 @@ QDataStream offre une solution puissante et native pour la sérialisation de don
 - La communication entre applications Qt
 
 Dans la prochaine section, nous explorerons la sérialisation JSON avec QJsonDocument, un format plus interopérable et lisible par l'humain.
+
+⏭️ [Sérialisation JSON avec QJsonDocument](/04-persistance-des-donnees/03-serialisation-json-avec-qjsondocument.md)

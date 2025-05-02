@@ -1,5 +1,7 @@
 # 3.2 Développement avec Qt Quick/QML
 
+🔝 Retour à la [Table des matières](/SOMMAIRE.md)
+
 Qt Quick est le framework moderne d'interface utilisateur de Qt6, tandis que QML (Qt Modeling Language) est le langage déclaratif utilisé pour créer ces interfaces. Ensemble, ils permettent de développer rapidement des interfaces graphiques fluides, animées et adaptées aux écrans tactiles. Dans cette section, nous découvrirons comment créer des interfaces attrayantes avec Qt Quick et QML.
 
 ## Introduction à QML
@@ -734,3 +736,5 @@ Qt Quick et QML offrent une approche moderne et puissante pour créer des interf
 En maîtrisant les concepts de base comme les éléments visuels, le positionnement, les propriétés et les animations, vous pouvez créer des applications modernes qui fonctionnent aussi bien sur bureau que sur mobile.
 
 Dans la prochaine section, nous explorerons comment personnaliser l'apparence de vos applications Qt avec les styles et les thèmes.
+
+⏭️ [Styles et thèmes (Qt Style Sheets)](/03-interface-utilisateur/03-styles-et-themes-qt-style-sheets.md)

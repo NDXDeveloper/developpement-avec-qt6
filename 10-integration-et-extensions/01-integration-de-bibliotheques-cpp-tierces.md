@@ -1,5 +1,7 @@
 # 10.1 Intégration de bibliothèques C++ tierces
 
+🔝 Retour à la [Table des matières](/SOMMAIRE.md)
+
 ## Introduction
 
 L'univers C++ regorge de bibliothèques spécialisées qui peuvent considérablement enrichir vos applications Qt6. Que vous ayez besoin de fonctionnalités avancées pour le traitement d'images, d'algorithmes mathématiques complexes, ou d'outils de compression de données, il existe probablement déjà une bibliothèque C++ qui répond à votre besoin.
@@ -246,3 +248,5 @@ Les bibliothèques tierces peuvent avoir leurs propres dépendances. Assurez-vou
 L'intégration de bibliothèques C++ tierces peut considérablement enrichir vos applications Qt6 en y ajoutant des fonctionnalités spécialisées. Bien que cette intégration puisse présenter certains défis, les bénéfices en termes de fonctionnalités et de gain de temps en valent généralement la peine.
 
 En suivant les bonnes pratiques et en comprenant les différentes méthodes d'intégration, vous pouvez tirer parti de l'écosystème C++ plus large tout en continuant à profiter de la puissance et de la facilité d'utilisation de Qt6.
+
+⏭️ [Création de plugins Qt](/10-integration-et-extensions/02-creation-de-plugins-qt.md)

@@ -1,5 +1,7 @@
 # 9.1 Configuration des projets multi-plateformes avec CMake
 
+🔝 Retour à la [Table des matières](/SOMMAIRE.md)
+
 ## Introduction à CMake dans Qt6
 
 Depuis Qt6, CMake est devenu le système de build officiel, remplaçant qmake qui était utilisé dans les versions précédentes. CMake offre une grande flexibilité pour gérer des projets multi-plateformes et s'intègre parfaitement avec Qt Creator.
@@ -334,3 +336,5 @@ Si vous rencontrez des problèmes avec votre configuration CMake :
 La configuration de projets multi-plateformes avec CMake peut sembler complexe au début, mais elle offre une grande flexibilité et puissance. En maîtrisant ces concepts de base, vous serez en mesure de créer des projets Qt6 qui fonctionnent de manière cohérente sur toutes les plateformes cibles.
 
 Dans les sections suivantes du tutoriel, nous explorerons les spécificités de chaque plateforme et comment optimiser votre application pour chacune d'elles.
+
+⏭️ [Spécificités Windows, Linux, macOS](/09-developpement-multiplateforme-avec-qt6/02-specificites-windows-linux-macos.md)

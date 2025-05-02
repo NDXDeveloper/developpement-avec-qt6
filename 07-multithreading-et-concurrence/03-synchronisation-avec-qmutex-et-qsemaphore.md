@@ -1,5 +1,7 @@
 # 7.3 Synchronisation avec QMutex et QSemaphore
 
+🔝 Retour à la [Table des matières](/SOMMAIRE.md)
+
 ## Introduction à la synchronisation
 
 Lorsque vous travaillez avec plusieurs threads dans votre application Qt, vous rencontrerez inévitablement des situations où ces threads doivent accéder aux mêmes données. Sans mécanisme de protection, cela peut entraîner des **conditions de course** (race conditions) et des comportements imprévisibles.
@@ -395,3 +397,5 @@ Les mécanismes de synchronisation de Qt vous permettent de coordonner efficacem
 En utilisant ces outils correctement, vous pouvez créer des applications multi-threads robustes qui évitent les problèmes classiques comme les conditions de course et les deadlocks.
 
 N'oubliez pas que la meilleure synchronisation est souvent celle que vous n'avez pas à gérer vous-même ! Lorsque c'est possible, utilisez `QtConcurrent` qui s'occupe de tous ces détails pour vous.
+
+⏭️ [Modèle d'acteur avec Qt](/07-multithreading-et-concurrence/04-modele-d-acteur-avec-qt.md)

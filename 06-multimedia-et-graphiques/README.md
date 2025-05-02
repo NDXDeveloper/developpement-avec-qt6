@@ -1,5 +1,7 @@
 # 6. Multimédia et graphiques
 
+🔝 Retour à la [Table des matières](/SOMMAIRE.md)
+
 ## Introduction
 
 Bienvenue dans ce chapitre consacré aux fonctionnalités multimédia et graphiques de Qt6 !
@@ -247,3 +249,5 @@ Pour vous familiariser avec ces concepts, essayez ces petits exercices :
 3. Créez une animation qui fait rebondir un objet à l'écran.
 
 Bon développement avec Qt6 !
+
+⏭️ [Traitement d'images avec Qt](/06-multimedia-et-graphiques/01-traitement-d-images-avec-qt.md)

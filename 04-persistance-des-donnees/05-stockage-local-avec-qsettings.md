@@ -1,5 +1,7 @@
 # 4.5 Stockage local avec QSettings
 
+🔝 Retour à la [Table des matières](/SOMMAIRE.md)
+
 ## Introduction à QSettings
 
 QSettings est une classe simple et puissante fournie par Qt pour stocker et récupérer les paramètres d'une application de manière persistante. C'est la solution idéale pour sauvegarder les préférences utilisateur, l'état de l'interface et d'autres configurations légères.
@@ -664,3 +666,5 @@ QSettings offre une solution simple et efficace pour stocker les paramètres d'a
 Pour l'utilisateur final, cela permet une expérience fluide où ses préférences sont automatiquement sauvegardées et restaurées à chaque utilisation de l'application.
 
 Dans ce chapitre sur la persistance des données, nous avons exploré différentes méthodes, de la plus simple (QSettings) à la plus complexe (bases de données SQL), en passant par des formats intermédiaires (QDataStream, JSON, XML). Chaque méthode a ses forces et ses faiblesses, et le choix dépend des besoins spécifiques de votre application.
+
+⏭️ [Communication réseau](/05-communication-reseau)

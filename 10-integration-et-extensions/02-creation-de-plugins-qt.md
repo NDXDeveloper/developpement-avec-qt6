@@ -1,5 +1,7 @@
 # 10.2 Création de plugins Qt
 
+🔝 Retour à la [Table des matières](/SOMMAIRE.md)
+
 ## Introduction
 
 Les plugins représentent une approche puissante pour rendre vos applications Qt extensibles et modulaires. Au lieu d'intégrer toutes les fonctionnalités dans une seule application monolithique, les plugins vous permettent de charger dynamiquement des fonctionnalités supplémentaires à l'exécution. Cette approche offre de nombreux avantages, notamment une meilleure organisation du code, des mises à jour plus faciles et la possibilité pour les utilisateurs ou les développeurs tiers d'étendre votre application.
@@ -429,3 +431,5 @@ Les plugins sont particulièrement utiles pour :
 - Les logiciels qui bénéficient d'une architecture modulaire
 
 En suivant les principes et exemples présentés dans cette section, vous êtes maintenant prêt à intégrer des plugins dans vos propres applications Qt6.
+
+⏭️ [Intégration de code natif (JNI, Objective-C)](/10-integration-et-extensions/03-integration-de-code-natif-jni-objective-c.md)

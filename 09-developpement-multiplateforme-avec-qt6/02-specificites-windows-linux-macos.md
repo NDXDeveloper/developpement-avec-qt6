@@ -1,5 +1,7 @@
 # 9.2 Spécificités Windows, Linux, macOS
 
+🔝 Retour à la [Table des matières](/SOMMAIRE.md)
+
 ## Introduction
 
 Bien que Qt6 soit conçu pour créer des applications multiplateformes avec une base de code commune, chaque système d'exploitation possède des particularités que vous devez connaître. Cette section vous guidera à travers les spécificités de Windows, Linux et macOS pour développer des applications Qt6 qui s'intègrent parfaitement à chaque plateforme.
@@ -444,3 +446,5 @@ void TestPlatformSpecifics::testFilePathHandling()
 Le développement multiplateforme avec Qt6 nécessite une bonne compréhension des spécificités de chaque système d'exploitation. En suivant les bonnes pratiques présentées dans cette section, vous pourrez créer des applications qui s'intègrent naturellement à Windows, Linux et macOS tout en conservant une base de code commune.
 
 Dans la section suivante, nous explorerons le développement pour plateformes mobiles avec Qt6, notamment Android et iOS.
+
+⏭️ [Développement mobile (Android, iOS)](/09-developpement-multiplateforme-avec-qt6/03-developpement-mobile-android-ios.md)

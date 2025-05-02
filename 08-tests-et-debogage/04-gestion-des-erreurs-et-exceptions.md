@@ -1,5 +1,7 @@
 # 8.4 Gestion des erreurs et exceptions
 
+🔝 Retour à la [Table des matières](/SOMMAIRE.md)
+
 La gestion des erreurs est une partie essentielle du développement logiciel. Une application robuste doit être capable de détecter les problèmes, de les signaler clairement et, si possible, de les gérer élégamment. Dans ce chapitre, nous allons explorer les différentes approches de gestion des erreurs en Qt6, des plus simples aux plus sophistiquées.
 
 ## Comprendre les erreurs et les exceptions
@@ -498,3 +500,5 @@ La gestion des erreurs est un aspect fondamental du développement logiciel robu
 - **Assertions** : Utiles pour détecter les erreurs de programmation
 
 Choisissez l'approche qui convient à votre situation et n'oubliez pas : une bonne gestion des erreurs ne consiste pas seulement à éviter les crashs, mais aussi à créer une expérience utilisateur agréable même lorsque les choses ne se passent pas comme prévu.
+
+⏭️ [Développement multiplateforme avec Qt6](/09-developpement-multiplateforme-avec-qt6)

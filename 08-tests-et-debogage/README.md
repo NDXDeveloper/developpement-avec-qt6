@@ -1,5 +1,7 @@
 # 8. Tests et débogage
 
+🔝 Retour à la [Table des matières](/SOMMAIRE.md)
+
 Le test et le débogage sont des étapes essentielles dans le développement d'applications robustes. Qt6 fournit un ensemble d'outils puissants qui vous aideront à identifier, comprendre et résoudre les problèmes dans votre code. Cette section couvre les concepts fondamentaux du test et du débogage spécifiques à Qt6.
 
 ## Pourquoi tester et déboguer ?
@@ -221,3 +223,5 @@ if (logFile.open(QIODevice::WriteOnly | QIODevice::Append)) {
 Le débogage est un art qui s'améliore avec la pratique. Qt6 fournit un ensemble riche d'outils pour vous aider à identifier et résoudre les problèmes dans votre code. En maîtrisant ces techniques, vous deviendrez plus efficace dans le développement d'applications Qt robustes et fiables.
 
 Dans la prochaine section, nous explorerons les tests unitaires avec Qt Test, qui vous permettront d'automatiser la vérification du comportement de votre code.
+
+⏭️ [Tests unitaires avec Qt Test](/08-tests-et-debogage/01-tests-unitaires-avec-qt-test.md)

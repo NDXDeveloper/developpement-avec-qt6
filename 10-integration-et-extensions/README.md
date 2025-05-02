@@ -1,5 +1,7 @@
 # 10. Intégration et extensions
 
+🔝 Retour à la [Table des matières](/SOMMAIRE.md)
+
 ## Introduction
 
 L'un des grands atouts de Qt6 est sa capacité à s'intégrer avec d'autres technologies et à être étendu pour répondre à des besoins spécifiques. Cette flexibilité permet aux développeurs de combiner la puissance de Qt avec d'autres bibliothèques et langages de programmation, créant ainsi des applications plus riches et plus fonctionnelles.
@@ -46,3 +48,5 @@ Avant de vous lancer dans l'intégration de technologies externes avec Qt6, voic
 - **Documentation**: Documentez clairement comment votre application Qt interagit avec les technologies externes pour faciliter la maintenance future.
 
 Dans les prochaines sous-sections, nous explorerons en détail chaque approche d'intégration et d'extension, en commençant par l'intégration de bibliothèques C++ tierces.
+
+⏭️ [Intégration de bibliothèques C++ tierces](/10-integration-et-extensions/01-integration-de-bibliotheques-cpp-tierces.md)

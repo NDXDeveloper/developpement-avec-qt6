@@ -1,5 +1,7 @@
 # 4.3 Sérialisation JSON avec QJsonDocument
 
+🔝 Retour à la [Table des matières](/SOMMAIRE.md)
+
 ## Introduction au format JSON
 
 JSON (JavaScript Object Notation) est un format de données textuelles léger, facile à lire pour les humains et simple à analyser pour les machines. Il est devenu l'un des formats les plus populaires pour l'échange de données, particulièrement dans les applications web et les API REST.
@@ -696,3 +698,5 @@ QJsonDocument et les classes associées offrent une solution flexible et interop
 - Le stockage de données dont la structure peut évoluer
 
 Dans la prochaine section, nous explorerons la sérialisation XML avec QXmlStreamWriter/Reader, qui offre une alternative plus structurée pour les données hiérarchiques complexes.
+
+⏭️ [Sérialisation XML avec QXmlStreamWriter/Reader](/04-persistance-des-donnees/04-serialisation-xml-avec-qxmlstreamwriter-reader.md)

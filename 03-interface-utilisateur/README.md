@@ -1,5 +1,7 @@
 # 3. Interface utilisateur
 
+🔝 Retour à la [Table des matières](/SOMMAIRE.md)
+
 L'interface utilisateur est la partie de votre application avec laquelle vos utilisateurs interagiront directement. C'est ce qu'ils verront, ce qu'ils toucheront, et ce qui formera leur première impression de votre application. Dans Qt6, vous disposez de deux approches principales pour créer des interfaces utilisateur riches et interactives : Qt Widgets et Qt Quick/QML.
 
 ## Pourquoi l'interface utilisateur est importante
@@ -150,3 +152,5 @@ Dans les sections suivantes, nous explorerons en détail chacune de ces approche
 - **3.4 Internationalisation** : Nous verrons comment préparer nos applications pour un public international
 
 Que vous choisissiez Qt Widgets, Qt Quick, ou une combinaison des deux, vous disposerez des outils nécessaires pour créer des interfaces utilisateur attrayantes et fonctionnelles pour vos applications Qt6.
+
+⏭️ [Développement avec Qt Widgets](/03-interface-utilisateur/01-developpement-avec-qt-widgets.md)

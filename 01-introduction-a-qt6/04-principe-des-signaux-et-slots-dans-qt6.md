@@ -1,5 +1,7 @@
 # 1.4 Principe des signaux et slots dans Qt6
 
+🔝 Retour à la [Table des matières](/SOMMAIRE.md)
+
 Le mécanisme de signaux et slots est l'une des caractéristiques les plus puissantes et distinctives de Qt. C'est le cœur de la programmation d'interfaces graphiques avec Qt. Dans cette section, nous allons découvrir ce concept fondamental de manière simple et accessible.
 
 ## Qu'est-ce que le mécanisme de signaux et slots ?
@@ -195,3 +197,5 @@ Les signaux et slots sont utiles dans de nombreuses situations :
 Le mécanisme de signaux et slots est l'un des piliers de la programmation avec Qt. Il peut sembler un peu complexe au début, mais une fois compris, il devient un outil extrêmement puissant qui simplifie grandement le développement d'applications interactives.
 
 Dans les prochaines sections, nous verrons comment utiliser ces concepts dans des applications plus complexes et comment tirer parti de toute la puissance de Qt6.
+
+⏭️ [Architecture d'applications Qt6](/02-architecture-d-applications-qt6)

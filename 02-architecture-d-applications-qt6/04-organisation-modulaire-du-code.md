@@ -1,5 +1,7 @@
 # 2.4 Organisation modulaire du code
 
+🔝 Retour à la [Table des matières](/SOMMAIRE.md)
+
 Une application Qt bien conçue est généralement organisée en modules indépendants qui interagissent entre eux. Cette approche modulaire facilite le développement, la maintenance et l'évolution de votre application. Dans cette section, nous allons explorer les différentes façons d'organiser votre code Qt6 de manière modulaire.
 
 ## Pourquoi adopter une organisation modulaire ?
@@ -415,3 +417,5 @@ L'organisation modulaire du code est essentielle pour le développement d'applic
 Les techniques que nous avons vues (séparation par couches, organisation par fonctionnalités, bibliothèques, plugins, espaces de noms) peuvent être combinées selon les besoins de votre projet. L'important est de garder une structure cohérente et de maintenir un couplage faible entre les modules.
 
 Dans les prochaines sections, nous explorerons plus en détail le développement d'interfaces utilisateur avec Qt Widgets et Qt Quick/QML, en gardant à l'esprit ces principes d'organisation modulaire.
+
+⏭️ [Interface utilisateur](/03-interface-utilisateur)

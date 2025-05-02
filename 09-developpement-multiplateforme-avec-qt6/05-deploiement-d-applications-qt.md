@@ -1,5 +1,7 @@
 # 9.5 Déploiement d'applications Qt
 
+🔝 Retour à la [Table des matières](/SOMMAIRE.md)
+
 ## Introduction
 
 Le déploiement est l'étape finale du processus de développement, où vous préparez votre application pour la distribution aux utilisateurs finaux. Dans cette section, nous explorerons les différentes méthodes pour déployer efficacement vos applications Qt sur diverses plateformes. Bien que le déploiement puisse sembler intimidant pour les débutants, Qt fournit plusieurs outils pour simplifier ce processus.
@@ -391,3 +393,5 @@ Le déploiement d'applications Qt sur plusieurs plateformes peut sembler complex
 N'oubliez pas que le déploiement n'est pas une réflexion après coup, mais une partie intégrante du processus de développement. Pensez aux exigences de déploiement dès les premières étapes de votre projet pour éviter les surprises de dernière minute.
 
 Dans les chapitres suivants, nous explorerons l'intégration et les extensions de votre application Qt6, vous permettant d'étendre ses fonctionnalités au-delà des capacités de base de Qt.
+
+⏭️ [Intégration et extensions](/10-integration-et-extensions)

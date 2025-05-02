@@ -1,5 +1,7 @@
 # 2.2 Système de widgets et QML
 
+🔝 Retour à la [Table des matières](/SOMMAIRE.md)
+
 Qt6 propose deux approches principales pour créer des interfaces utilisateur : le système de **widgets** traditionnel et le langage **QML** moderne. Chaque approche a ses avantages et peut même être combinée dans une même application. Voyons comment fonctionnent ces deux systèmes et comment choisir celui qui convient le mieux à votre projet.
 
 ## Les widgets : l'approche traditionnelle
@@ -334,3 +336,5 @@ int main(int argc, char *argv[])
 Qt6 offre deux approches puissantes pour créer des interfaces utilisateur : les widgets traditionnels et QML moderne. Chacune a ses forces et ses cas d'utilisation idéaux. Les widgets brillent dans les applications de bureau traditionnelles, tandis que QML excelle dans les interfaces modernes et animées.
 
 En tant que débutant, n'hésitez pas à explorer les deux approches pour comprendre leurs spécificités. Avec l'expérience, vous saurez intuitivement quelle approche convient le mieux à chaque projet. Et rappelez-vous : vous pouvez toujours combiner les deux pour tirer parti du meilleur des deux mondes !
+
+⏭️ [Architecture Model-View-Controller (MVC)](/02-architecture-d-applications-qt6/03-architecture-model-view-controller-mvc.md)

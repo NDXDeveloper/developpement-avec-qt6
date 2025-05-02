@@ -1,5 +1,7 @@
 # 4.1 Qt SQL et les bases de données
 
+🔝 Retour à la [Table des matières](/SOMMAIRE.md)
+
 ## Introduction aux bases de données dans Qt
 
 Les bases de données sont essentielles pour stocker et gérer des données structurées dans vos applications. Qt6 offre un module dédié, **Qt SQL**, qui fournit une interface unifiée pour travailler avec différents systèmes de bases de données relationnelles.
@@ -467,3 +469,5 @@ bool GestionnaireDB::supprimerUtilisateur(int id)
 Qt SQL offre une solution robuste et flexible pour intégrer des bases de données dans vos applications. Pour les débutants, nous recommandons de commencer par SQLite qui est simple à mettre en place, puis d'explorer progressivement les fonctionnalités plus avancées comme les modèles relationnels et les transactions.
 
 Dans la prochaine section, nous explorerons une autre méthode de persistance : la sérialisation avec QDataStream.
+
+⏭️ [Sérialisation native avec QDataStream](/04-persistance-des-donnees/02-serialisation-native-avec-qdatastream.md)

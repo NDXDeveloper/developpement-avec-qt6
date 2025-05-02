@@ -1,5 +1,7 @@
 # 2. Architecture d'applications Qt6
 
+🔝 Retour à la [Table des matières](/SOMMAIRE.md)
+
 Lorsque vous débutez avec Qt6, comprendre comment structurer votre application est aussi important que de maîtriser la syntaxe du code. Une bonne architecture vous permettra de créer des applications robustes, maintenables et évolutives. Cette section vous présente les concepts fondamentaux de l'architecture d'applications Qt6.
 
 ## Qu'est-ce que l'architecture d'une application ?
@@ -151,3 +153,5 @@ Divise l'application en modules indépendants qui communiquent via des interface
 ---
 
 Dans les sections suivantes, nous explorerons en détail les différentes composantes de l'architecture d'une application Qt6, en commençant par le modèle d'application de base.
+
+⏭️ [Modèle d'application Qt (QApplication)](/02-architecture-d-applications-qt6/01-modele-d-application-qt-qapplication.md)

@@ -1,5 +1,7 @@
 # 3.4 Internationalisation (i18n) avec Qt Linguist
 
+🔝 Retour à la [Table des matières](/SOMMAIRE.md)
+
 L'internationalisation, souvent abrégée "i18n" (car il y a 18 lettres entre le "i" et le "n"), est le processus qui consiste à préparer votre application pour qu'elle puisse être facilement traduite dans différentes langues et adaptée à différentes cultures. Qt offre un excellent support pour l'internationalisation grâce à divers outils, dont Qt Linguist.
 
 ## Pourquoi internationaliser votre application ?
@@ -501,3 +503,5 @@ L'internationalisation est un processus crucial qui permet de rendre votre appli
 En suivant les bonnes pratiques présentées dans ce tutoriel, vous pourrez créer des applications véritablement internationales qui s'adaptent à la langue et à la culture de vos utilisateurs. N'oubliez pas que l'internationalisation va au-delà de la simple traduction de texte ; elle implique également l'adaptation des formats de date, de nombre, et d'autres aspects culturels.
 
 Avec Qt6, internationaliser votre application dès le début du développement est un investissement qui facilitera son évolution future et élargira considérablement son audience potentielle.
+
+⏭️ [Persistance des données](04-persistance-des-donnees)

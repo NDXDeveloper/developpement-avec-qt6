@@ -1,5 +1,7 @@
 # 7.1 QThread et gestion des threads
 
+🔝 Retour à la [Table des matières](/SOMMAIRE.md)
+
 ## Introduction à QThread
 
 `QThread` est la classe fondamentale de Qt pour créer et gérer des threads. Elle vous permet d'exécuter des opérations en parallèle avec votre interface utilisateur, ce qui rend votre application plus réactive et performante.
@@ -303,3 +305,5 @@ void MainWindow::on_processButton_clicked()
 `QThread` est un outil puissant pour améliorer les performances et la réactivité de vos applications Qt. En suivant l'approche recommandée avec `moveToThread`, vous pouvez facilement intégrer le multithreading dans vos projets tout en gardant un code propre et maintenable.
 
 N'oubliez pas que le multithreading introduit une complexité supplémentaire dans votre application. Utilisez-le lorsque c'est nécessaire, mais n'hésitez pas à explorer d'autres solutions comme `QtConcurrent` pour des cas d'utilisation plus simples, que nous verrons dans la section suivante.
+
+⏭️ [Programmation asynchrone avec QFuture et QtConcurrent](/07-multithreading-et-concurrence/02-programmation-asynchrone-avec-qfuture-et-qtconcurrent.md)

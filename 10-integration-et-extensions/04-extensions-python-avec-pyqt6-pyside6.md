@@ -1,5 +1,7 @@
 # 10.4 Extensions Python avec PyQt6/PySide6
 
+🔝 Retour à la [Table des matières](/SOMMAIRE.md)
+
 ## Introduction
 
 Python est l'un des langages de programmation les plus populaires au monde, apprécié pour sa simplicité et sa lisibilité. Qt, de son côté, est un framework C++ puissant pour créer des applications multiplateforme. Bonne nouvelle : vous pouvez combiner le meilleur des deux mondes grâce à PyQt6 et PySide6, deux modules qui permettent d'utiliser Qt depuis Python !
@@ -543,3 +545,5 @@ L'écosystème PyQt6/PySide6 continue d'évoluer et de s'améliorer, rendant l'i
 - [Documentation de PyQt6](https://www.riverbankcomputing.com/static/Docs/PyQt6/)
 - [Tutoriels Qt for Python](https://doc.qt.io/qtforpython-6/tutorials/index.html)
 - [Guide du générateur Shiboken](https://doc.qt.io/qtforpython-6/shiboken6/index.html)
+
+⏭️ [Bonnes pratiques Qt6](/11-bonnes-pratiques-qt6)

@@ -1,5 +1,7 @@
 # 11.1 Gestion mémoire et pointeurs intelligents
 
+🔝 Retour à la [Table des matières](/SOMMAIRE.md)
+
 ## Introduction à la gestion mémoire en Qt
 
 La gestion de la mémoire est l'un des aspects les plus importants du développement d'applications robustes avec Qt6. Une mauvaise gestion de la mémoire peut entraîner des fuites mémoire, des crashs inattendus et des performances dégradées. Heureusement, Qt6 fournit plusieurs mécanismes pour faciliter cette tâche, même pour les débutants.
@@ -314,3 +316,5 @@ Résumé des points clés :
 - Utilisez des outils de détection de fuites mémoire pendant le développement
 
 Dans la prochaine section, nous explorerons les techniques d'optimisation des performances pour vos applications Qt6.
+
+⏭️ [Optimisation des performances](/11-bonnes-pratiques-qt6/02-optimisation-des-performances.md)
