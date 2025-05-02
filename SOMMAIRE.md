@@ -1,4 +1,3 @@
-Parfait ! Voici la **table des matières au format Markdown**, avec des **liens vers les dossiers et fichiers** correspondants à ta structure :
 
 ---
 
