@@ -1,6 +1,3 @@
-
----
-
 ## 📚 Table des matières – Développement avec Qt6
 
 ### 1. [Introduction à Qt6](./01-introduction-a-qt6)
